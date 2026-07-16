@@ -38,25 +38,26 @@
     "globals": "^17.6.0",
     "prettier": "^3.8.3",
     "prettier-plugin-svelte": "^4.1.0",
+    "sass-embedded": "^1.100.0",
     "storybook": "^10.5.0",
     "svelte": "^5.56.1",
     "svelte-check": "^4.6.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.60.1",
     "vite": "^8.0.16",
-    "vitest": "^4.1.8",
-    "sass-embedded": "^1.100.0"
+    "vitest": "^4.1.8"
   },
   "dependencies": {
     "@flightlesslabs/dodo-ui": "^0.36.10",
     "@flightlesslabs/dodo-ui-bits": "^0.11.3",
     "@flightlesslabs/dodo-ui-date": "^0.4.34",
     "@flightlesslabs/dodo-ui-numeric": "^0.2.32",
+    "@iconify/svelte": "^5.2.2",
     "@internationalized/date": "^3.12.2",
     "bits-ui": "^2.18.1",
     "dayjs": "^1.11.21",
+    "dexie": "^4.4.4",
     "nanoid": "^6.0.0",
-    "svelte-number-format": "^2.0.0",
-    "@iconify/svelte": "^5.2.2"
+    "svelte-number-format": "^2.0.0"
   }
 }
